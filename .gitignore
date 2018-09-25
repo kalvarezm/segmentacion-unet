@@ -18,6 +18,8 @@ develop-eggs
 lib
 lib64
 .DS_Store
+unet_trained_isbi
+unet_trained
 
 # Installer logs
 pip-log.txt
