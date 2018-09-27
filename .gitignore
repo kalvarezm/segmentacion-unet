@@ -19,6 +19,7 @@ lib
 lib64
 .DS_Store
 unet_trained*
+dataset/electron-microscopy*
 
 # Installer logs
 pip-log.txt
