@@ -20,6 +20,10 @@ lib64
 .DS_Store
 unet_trained*
 dataset/electron-microscopy*
+dataset/*/aug_train*
+dataset/*/aug_trans_train*
+dataset/*/final-test*
+dataset/*/final-train*
 
 # Installer logs
 pip-log.txt
