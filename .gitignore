@@ -57,4 +57,5 @@ docs/_build
 /ufig_images/
 /.hope/
 /.ipynb_checkpoints/
+/*/.ipynb_checkpoints/
 /.settings/
